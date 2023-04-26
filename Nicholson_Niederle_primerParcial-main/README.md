@@ -14,8 +14,8 @@ Usamos dos graficos, uno con los datos filtrados solo de Villa Soldati y otro co
 los dos mientras que tambien se puede observar que la mayoria de los casos estan cerrados en ambos barrios. Intentamos no separarlos pero decidimos que esta era la mejor opcion ya que es mucho mas legible y claro para interpretar la informacion.
 
 ## Problemas que pudimos superar:
-- Dificultades con los dos mapas, sobre todo al momento de entender el codigo
-- Tuvimos que tomar una decision: quedarnos con los dos mapas o solo con uno, terminamos decidiendo por los dos por lo explicado anteriormente
-- Proceso no lineal, avanzabamos mucho en una dirección y luego habia que volver atras o empezar de cero
+- Dificultades con los dos mapas, sobre todo al momento de entender el codigo.
+- Tuvimos que tomar una decision: quedarnos con los dos mapas o solo con uno, terminamos decidiendo por los dos por lo explicado anteriormente.
+- Proceso no lineal, avanzabamos mucho en una dirección y luego habia que volver atras o empezar de cero.
 
 
